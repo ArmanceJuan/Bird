@@ -1,0 +1,8 @@
+#canvas {
+  border: 1px solid lightslategray;
+  background-image: url("assets/img/Sky_Background_0.png"),
+    url("assets/img/Sky_Background_1.png"),
+    url("assets/img/Sky_Background_2.png");
+  background-position: center center, center center, center center;
+  background-size: cover, cover, cover;
+}
